@@ -1,1 +1,1 @@
-worker: nide index.js
+worker: node index.js
