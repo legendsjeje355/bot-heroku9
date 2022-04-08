@@ -1,0 +1,1 @@
+worker: nide index.js
